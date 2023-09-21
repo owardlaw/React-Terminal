@@ -155,7 +155,7 @@ function App() {
               <p className="terminal-output">
                 <p> bash-3.2: Click</p>
                 <a
-                  href="https://docs.google.com/document/d/1iZnDHxjBRJ8rRSAJenJsKZQt6G_zpbP7YI1VKSNA1_M/edit?usp=sharing"
+                  href="https://www.linkedin.com/in/owenwardlaw/overlay/1635537817432/single-media-viewer/?profileId=ACoAACIwvacBEIp_oUMXntcE6gRcdfvxDKhBYyw"
                   target="_blank"
                 >
                   me
