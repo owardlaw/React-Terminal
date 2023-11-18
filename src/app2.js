@@ -82,7 +82,7 @@ function App() {
     return () => {
       window.removeEventListener("resize", updateDimensions);
     };
-  }, []);
+  }, [terminalWindowRef]);
 
   const handleKeyPress = async (event) => {
     if (event.key === "Enter") {
