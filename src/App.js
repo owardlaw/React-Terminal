@@ -121,7 +121,7 @@ function App() {
             content: (
               <p className="terminal-output">
                 <p> bash-3.2: Click</p>
-                <a href="https://github.com/owardlaw" target="_blank">
+                <a href="https://github.com/owardlaw" target="_blank" rel="noopener noreferrer">
                   me
                 </a>
               </p>
@@ -139,6 +139,7 @@ function App() {
                 <a
                   href="https://www.linkedin.com/in/owenwardlaw/"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   me
                 </a>
@@ -157,6 +158,7 @@ function App() {
                 <a
                   href="https://www.linkedin.com/in/owenwardlaw/overlay/1635537817432/single-media-viewer/?profileId=ACoAACIwvacBEIp_oUMXntcE6gRcdfvxDKhBYyw"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   me
                 </a>
@@ -175,6 +177,7 @@ function App() {
                 <a
                   href="https://www.astrobin.com/users/owardlaw/"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   me
                 </a>
