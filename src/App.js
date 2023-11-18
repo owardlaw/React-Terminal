@@ -45,8 +45,8 @@ function App() {
       const scrollContainer = terminalWindowRef.current;
       scrollContainer.scrollTop = scrollContainer.scrollHeight;
     }
-  }, [terminalHistory]);
-
+  }, [terminalHistory, closeTerminalState]); 
+  
   const closeTerminal = () => {
     setTerminalHistory([]);
     setCloseTerminalState(true);
